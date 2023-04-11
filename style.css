@@ -1,6 +1,8 @@
 
-.animate__bounce{text-align:center;
-background-color:lightblue;}
+.blink-bg{text-align:center;
+width:1400px;
+text-shadow: 2px 2px black;
+}
 
 .hello{width: 130px;
     height: 120px;}
@@ -8,4 +10,4 @@ background-color:lightblue;}
     .container-md{background-color:lightgreen;}
     .container-lg
     {background-color:orange;}
-        
+ .m1{background-color:yellow;}
