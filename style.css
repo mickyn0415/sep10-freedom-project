@@ -7,7 +7,14 @@ text-shadow: 2px 2px black;
 .hello{width: 130px;
     height: 120px;}
 
-    .container-md{background-color:lightgreen;}
-    .container-lg
-    {background-color:orange;}
- .m1{background-color:yellow;}
+    .container-md{background-color:lightgreen;
+max-width:500px;
+    border-style:solid;
+        border-width:6px;  }  
+.container-lg
+    {background-color:orange;
+max-width:600px;
+    border-style:solid;
+    border-width:6px;}
+ 
+.m1{background-color:yellow;}
