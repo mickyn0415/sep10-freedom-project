@@ -1,6 +1,6 @@
 
 .blink-bg{text-align:center;
-width:1400px;
+width:1900px;
 text-shadow: 2px 2px black;
 }
 
@@ -18,3 +18,7 @@ max-width:600px;
     border-width:6px;}
  
 .m1{background-color:yellow;}
+
+body {
+    background-color: lightblue;
+  }
