@@ -1,6 +1,6 @@
 
 .blink-bg{text-align:center;
-width:2200px;
+width:1500px;
 text-shadow: 2px 2px black;
 }
 
@@ -8,12 +8,12 @@ text-shadow: 2px 2px black;
     height: 120px;}
 
     .container-md{background-color:lightgreen;
-max-width:500px;
+max-width:420px;
     border-style:solid;
         border-width:6px;  }  
 .container-lg
     {background-color:orange;
-max-width:600px;
+max-width:400px;
     border-style:solid;
     border-width:6px;}
  
