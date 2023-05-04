@@ -5,7 +5,30 @@
     height: 120px;}
 
 
- .m1{background-color:yellow;}
-    .m2{background-color:lightgreen;}
-    .m3{background-color:lightblue;}
-    .m4{background-color:pink;}
+.m1{background-color:yellow; border-style:solid;}
+    .m2{background-color:lightgreen;
+ border-style:solid;}
+    .m3{background-color:lightblue;
+ border-style:solid;}
+    .m4{background-color:pink;
+ border-style:solid;}
+
+.blink-bg{
+      color: lightblue;
+      text-shadow: 2px 2px black;
+     height:100px;
+     border-style:solid;
+      animation: blinkingBackground 2s infinite;
+ width:1100px;
+  }
+@keyframes blinkingBackground{
+      0%		{ background-color: red;}
+      25%		{ background-color: darkblue;}
+      50%		{ background-color: black;}
+      75%		{ background-color: #254878;}
+      100%	        { background-color: #04a1d5;}
+}
+
+.container-fluid {border-style:solid;
+background-color:black;
+border-color:red;}
