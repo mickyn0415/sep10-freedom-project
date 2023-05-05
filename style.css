@@ -1,34 +1,46 @@
 
-.blink-bg{text-shadow: 2px 2px black;}
 
 .hello{width: 130px;
     height: 120px;}
 
 
-.m1{background-color:yellow; border-style:solid;}
-    .m2{background-color:lightgreen;
- border-style:solid;}
-    .m3{background-color:lightblue;
- border-style:solid;}
-    .m4{background-color:pink;
- border-style:solid;}
+  .m1{background-color:#FCFCFC;
+    border-style:solid;
+  border-color:#54F2F2;
+border-width:5px;}
+
+    .m2{background-color:#F4E04D;
+    border-style:solid;
+  border-color:#54F2F2;
+Border-width:5px;
+}
+    .m3{background-color:#FCFCFC;
+    border-style:solid;
+  border-color:#54F2F2;
+border-width:5px;}
+
+    .m4{background-color:#F4E04D;
+    border-style:solid;
+    border-color:#54F2F2;
+  border-width:5px;}
+
 
 .blink-bg{
-      color: lightblue;
+      color: black;
       text-shadow: 2px 2px black;
      height:100px;
      border-style:solid;
       animation: blinkingBackground 2s infinite;
- width:1100px;
+ width:1300px;
   }
 @keyframes blinkingBackground{
-      0%		{ background-color: red;}
-      25%		{ background-color: darkblue;}
-      50%		{ background-color: black;}
-      75%		{ background-color: #254878;}
-      100%	        { background-color: #04a1d5;}
-}
-
-.container-fluid {border-style:solid;
-background-color:black;
-border-color:red;}
+      0%		{ background-color: #87677B;}
+      25%		{ background-color: #9A7AA0;}
+      50%		{ background-color: #8D94BA;}
+      75%		{ background-color: #A0CFD3;}
+      100%  { background-color: #B4EDD2;}
+ 
+    .container-fluid {border-style:solid;
+background-color:#5EB1BF;
+border-color:#042A2B;
+border-width:5px;}
