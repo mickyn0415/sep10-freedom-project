@@ -35,10 +35,10 @@ border-width:5px;}
 
   }
 @keyframes blinkingBackground{
-      0%		{ background-color: #85C7DE;}
-      25%		{ background-color: #A0C4E2;}
-      50%		{ background-color: #AED1E6;}
-      75%		{ background-color: #C6DBF0;}
+      0%		{ background-color: #D00000;}
+      25%		{ background-color: #FFBA08;}
+      50%		{ background-color: #3FF88C5;}
+      75%		{ background-color: #136F63;}
       100%  { background-color: #CFE8EF;}
 }
     .container-fluid {border-style:solid;
