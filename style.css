@@ -27,18 +27,18 @@ border-width:5px;}
 
 .blink-bg{
       color: black;
-      text-shadow: 2px 2px black;
+      text-shadow: 2px 5px #1BE7FF;
      height:100px;
      border-style:solid;
       animation: blinkingBackground 2s infinite;
  width:1300px;
   }
 @keyframes blinkingBackground{
-      0%		{ background-color: #87677B;}
-      25%		{ background-color: #9A7AA0;}
-      50%		{ background-color: #8D94BA;}
-      75%		{ background-color: #A0CFD3;}
-      100%  { background-color: #B4EDD2;}
+      0%		{ background-color: #85C7DE;}
+      25%		{ background-color: #A0C4E2;}
+      50%		{ background-color: #AED1E6;}
+      75%		{ background-color: #C6DBF0;}
+      100%  { background-color: #CFE8EF;}
  
     .container-fluid {border-style:solid;
 background-color:#5EB1BF;
