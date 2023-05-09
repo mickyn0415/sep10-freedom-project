@@ -30,6 +30,7 @@ border-width:5px;}
       text-shadow: 2px 5px #1BE7FF;
      height:80px;
      border-style:solid;
+    text-align:center;
       animation: blinkingBackground 2s infinite;
 
   }
