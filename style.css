@@ -28,10 +28,10 @@ border-width:5px;}
 .blink-bg{
       color: black;
       text-shadow: 2px 5px #1BE7FF;
-     height:100px;
+     height:80px;
      border-style:solid;
       animation: blinkingBackground 2s infinite;
- width:1300px;
+
   }
 @keyframes blinkingBackground{
       0%		{ background-color: #85C7DE;}
@@ -39,7 +39,7 @@ border-width:5px;}
       50%		{ background-color: #AED1E6;}
       75%		{ background-color: #C6DBF0;}
       100%  { background-color: #CFE8EF;}
- 
+}
     .container-fluid {border-style:solid;
 background-color:#5EB1BF;
 border-color:#042A2B;
