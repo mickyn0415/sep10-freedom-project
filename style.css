@@ -5,19 +5,28 @@
 
 
   .m1{background-color:#FCFCFC;
+      text-align:center;
+      font-size:16px;
   }
 
     .m2{background-color:#F4E04D;
+        text-align:center;
+        font-size:18px;
 }
     .m3{background-color:#FCFCFC;
+        text-align:center;
+        font-size:18px;
    }
 
     .m4{background-color:#F4E04D;
+        text-align:center;
+        font-size:18px;
   }
 
 
 .blink-bg{
       color: black;
+    font-size:36px;
       text-shadow: 2px 5px #1BE7FF;
      height:80px;
      border-style:solid;
