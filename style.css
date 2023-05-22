@@ -45,3 +45,17 @@
 background-color:#5EB1BF;
 border-color:#042A2B;
 border-width:5px;}
+
+  .navbar{
+        position: sticky;
+        top:0px;
+        background-color:transparent;
+        border-color:transparent;
+        height:10px;
+       }
+
+      .L1
+{width: 90px;
+    height: 80px;}
+
+    .nav-link{font-size:30px;}
